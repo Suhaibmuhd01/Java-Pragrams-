@@ -28,16 +28,16 @@ This repository includes various simple Java programs, but the exact list can be
 * **Check Palindrome:** Checks if a given string is a palindrome.
 * **Complex Number Addition:** Adds two complex numbers.
 * **Day of the Week Service:** Determines the day of the week for a given date.
-* **Deque:**Implements a double-ended queue data structure.
+* **Deque:** Implements a double-ended queue data structure.
 * **Happy Number Checker:** Checks if a number is a happy number.
 * **Implementing Class Concept:** Demonstrates the concept of classes in Java.
-* **Invalid Access:**Shows how to handle invalid access attempts.
+* **Invalid Access:** Shows how to handle invalid access attempts.
 * **Matrix Addition:** Adds two matrices.
 * **Max Subarray:** Finds the contiguous subarray with the largest sum.
-* **Overload:**Demonstrates method overloading in Java.
+* **Overload:** Demonstrates method overloading in Java.
 * **Palindrome String:** Checks if a given string is a palindrome.
 * **Pascal's Triangle:** Prints Pascal's triangle up to a given number of rows.
-* **Sort:**Implements various sorting algorithms (e.g., bubble sort, insertion sort, selection sort).
+* **Sort:** Implements various sorting algorithms (e.g., bubble sort, insertion sort, selection sort).
 
 ### Contribution
 Feel free to contribute your own simple Java programs to this repository. This can help others learn and expand the collection of available examples.
