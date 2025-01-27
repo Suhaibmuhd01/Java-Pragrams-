@@ -1,6 +1,6 @@
 ## Simple Java Programs
 
-This repository contains a collection of simple Java programs designed to demonstrate basic programming concepts and functionalities. These programs are ideal for beginners who are starting to learn Java or for experienced programmers who want to revisit fundamental techniques.
+This repository contains a collection of simple Java programs designed to demonstrate basic programming concepts and functionalities for beginners. These programs are ideal for beginners who are starting to learn Java or for experienced programmers who want to revisit fundamental techniques.
 
 ### Getting Started
 **Prerequisites:**
@@ -43,4 +43,4 @@ This repository includes various simple Java programs, but the exact list can be
 Feel free to contribute your own simple Java programs to this repository. This can help others learn and expand the collection of available examples.
 
 ### License
-Licensed By MIT
+Licensed By MIT. 
