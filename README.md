@@ -7,7 +7,7 @@ This repository contains a collection of simple Java programs designed to demons
 * **Java Development Kit (JDK):** Download and install the latest version of JDK from [https://www.oracle.com/java/technologies/downloads/](https://www.oracle.com/java/technologies/downloads/).
 * **Text Editor or IDE:** You can use any text editor or Integrated Development Environment (IDE) to write Java code. Some popular options include:
   * Notepad++ 
-  * Visual Studio Code (recomemded)
+  * Visual Studio Code (recomended)
   * Eclipse 
   * IntelliJ IDEA
 
